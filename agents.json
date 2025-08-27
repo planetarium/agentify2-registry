@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Artisan",
+    "description": "Specialized AI assistant for generating comprehensive game assets including 2D/3D visuals, audio, video, and interactive content",
+    "url": "https://agent8-artisan.fly.dev/asset-creator",
+    "proxy": {
+      "slack": {
+        "appId": "U098SLVBJMQ"
+      }
+    }
+  },
+  {
+    "name": "PM Assistant",
+    "description": "Professional project management and GitHub-based progress tracking specialist",
+    "url": "https://planetarium-pm-agent.fly.dev",
+    "proxy": {
+      "slack": {
+        "appId": "U093U51KMFU"
+      }
+    }
+  },
+  {
+    "name": "Fact Agent",
+    "description": "A fact-finding agent that leverages Google search to provide curated, interesting information and trivia on diverse subjects",
+    "url": "https://agentify2-factchecker-proxy.fly.dev",
+    "proxy": {
+      "slack": {
+        "appId": "U09BPK02UJG"
+      }
+    }
+  }
+]

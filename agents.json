@@ -32,7 +32,7 @@
   {
     "name": "Code Agent",
     "description": "Autonomous code modification agent with full codebase analysis and GitHub integration",
-    "url": "https://agentify2-code-agent-proxy.fly.dev",
+    "url": "https://planetarium-code-agent.fly.dev",
     "proxy": {
       "slack": {
         "appId": "A09C3K1SZC6"

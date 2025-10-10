@@ -16,6 +16,9 @@
     "proxy": {
       "slack": {
         "appId": "U093U51KMFU"
+      },
+      "github": {
+        "appId": "planetarium-pm-agent"
       }
     }
   },
@@ -36,6 +39,9 @@
     "proxy": {
       "slack": {
         "appId": "U09CGGD8C67"
+      },
+      "github": {
+        "appId": "planetarium-code-agent"
       }
     }
   }

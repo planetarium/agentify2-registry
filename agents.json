@@ -44,5 +44,25 @@
         "appId": "planetarium-code-agent"
       }
     }
+  },
+  {
+    "name": "Link Collector",
+    "description": "Collects URLs into a beautiful, shareable bookmark page. Send links and get back a single page URL.",
+    "url": "https://a2x-link-collector.fly.dev"
+  },
+  {
+    "name": "QR Code Generator",
+    "description": "Generates QR code images from text or URLs. Send any text and get back a link to the QR code PNG.",
+    "url": "https://a2x-qr-generator.fly.dev"
+  },
+  {
+    "name": "Screenshot Agent",
+    "description": "Captures a screenshot of any webpage. Send a URL and get back a link to the screenshot image.",
+    "url": "https://a2x-screenshot-agent.fly.dev"
+  },
+  {
+    "name": "Text Summarizer",
+    "description": "Summarizes text or web page content. Send text directly or provide a URL to fetch and summarize.",
+    "url": "https://a2x-text-summarizer.fly.dev"
   }
 ]
